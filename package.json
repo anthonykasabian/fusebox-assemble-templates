@@ -9,6 +9,6 @@
     "typescript": "^2.1.6"
   },
   "scripts": {
-    "start": "node ./fuse.ts"
+    "start": "node ./fuse.js"
   }
 }
